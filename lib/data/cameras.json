@@ -1,0 +1,1544 @@
+[
+    {
+        "id": "sony-a7-iii",
+        "name": "Sony A7 III",
+        "brand": "Sony",
+        "type": "Mirrorless",
+        "price": 1699.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 24.2,
+        "batteryLife": 120,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 30,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 10,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Intermediate",
+            "weightGrams": 650,
+            "hasFlipScreen": false
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Portraits", "Weddings/Events", "Travel Vlogging"],
+
+        "description": "A highly versatile full-frame mirrorless camera known for excellent low-light performance and reliable autofocus.",
+        "pros": [
+            "Excellent low-light performance",
+            "Strong autofocus tracking",
+            "Great battery life"
+        ],
+        "cons": ["No fully articulating screen", "Menu system can be complex"],
+        "recommendationReason": "A strong hybrid option with excellent low-light performance, making it ideal for weddings and portrait work.",
+        "purchaseLink": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7m3-b"
+    },
+    {
+        "id": "canon-eos-r6-mark-iii",
+        "name": "Canon EOS R6 Mark III",
+        "brand": "Canon",
+        "type": "Mirrorless",
+        "price": 2799.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 32.5,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 40,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 699,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Action/Sports", "Nature/Wildlife", "Weddings/Events"],
+
+        "description": "A high-performance mirrorless camera with exceptional autofocus and high-speed burst shooting.",
+        "pros": [
+            "Outstanding autofocus tracking",
+            "High-speed continuous shooting",
+            "Excellent stabilization"
+        ],
+        "cons": ["Can overheat during long video sessions", "Lower megapixel count"],
+        "recommendationReason": "Perfect for fast-paced shooting like sports and wildlife thanks to its superior autofocus and burst speed.",
+        "purchaseLink": "https://www.usa.canon.com/shop/p/eos-r6-mark-iii"
+    },
+    {
+        "id": "sony-zv-e10",
+        "name": "Sony ZV-E10",
+        "brand": "Sony",
+        "type": "Mirrorless",
+        "price": 749.99,
+        "sensor": "APS-C",
+        "resolutionMP": 24.2,
+        "batteryLife": 80,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 30,
+            "hasIBIS": false,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 11,
+            "lowLight": "Good",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Beginner",
+            "weightGrams": 343,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Videography"],
+        "idealContentTypes": ["Travel Vlogging"],
+
+        "description": "A lightweight camera designed specifically for content creators and vloggers.",
+
+        "pros": ["Excellent autofocus for video", "Lightweight and portable", "Beginner-friendly"],
+        "cons": ["No in-body stabilization", "Limited physical controls"],
+        "recommendationReason": "Ideal for beginner content creators focused on vlogging and portable video production.",
+        "purchaseLink": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilczve10-b"
+    },
+    {
+        "id": "nikon-z6-ii",
+        "name": "Nikon Z6 II",
+        "brand": "Nikon",
+        "type": "Mirrorless",
+        "price": 1499.95,
+        "sensor": "Full Frame",
+        "resolutionMP": 24.5,
+        "batteryLife": 100,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 30,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 14,
+            "lowLight": "Excellent",
+            "autofocus": "Good"
+        },
+
+        "usability": {
+            "level": "Intermediate",
+            "weightGrams": 705,
+            "hasFlipScreen": false
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Landscape", "Portraits", "Travel Vlogging"],
+
+        "description": "A well-rounded full-frame mirrorless camera offering strong image quality and solid performance.",
+        "pros": ["Excellent image quality", "Durable build", "Strong low-light performance"],
+        "cons": ["Autofocus slightly behind competitors", "Limited third-party lens options"],
+        "recommendationReason": "A reliable all-around camera with excellent image quality for both Photography and video use.",
+        "purchaseLink": "https://www.nikonusa.com/p/z-6ii/1659"
+    },
+    {
+        "id": "sony-a6700",
+        "name": "Sony A6700",
+        "brand": "Sony",
+        "type": "Mirrorless",
+        "price": 1499.99,
+        "sensor": "APS-C",
+        "resolutionMP": 26,
+        "batteryLife": 100,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 11,
+            "lowLight": "Good",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Intermediate",
+            "weightGrams": 493,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Travel Vlogging", "Cinematic Filmmaking"],
+
+        "description": "A compact hybrid powerhouse with strong AI autofocus and advanced video features.",
+        "pros": ["Excellent autofocus", "Strong video features", "Compact"],
+        "cons": ["Limited ergonomics", "Single card slot"],
+        "recommendationReason": "Great hybrid choice for creators prioritizing video and portability.",
+        "purchaseLink": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6700-b"
+    },
+    {
+        "id": "canon-eos-r10",
+        "name": "Canon EOS R10",
+        "brand": "Canon",
+        "type": "Mirrorless",
+        "price": 999.99,
+        "sensor": "APS-C",
+        "resolutionMP": 24.2,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": false,
+            "hasLog": false
+        },
+
+        "photo": {
+            "burstFps": 23,
+            "lowLight": "Good",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Beginner",
+            "weightGrams": 426,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Action/Sports", "Nature/Wildlife", "Travel Vlogging"],
+
+        "description": "A fast and beginner-friendly mirrorless camera with strong autofocus performance.",
+        "pros": ["Fast burst shooting", "Great autofocus", "Lightweight"],
+        "cons": ["No IBIS", "Limited lens selection"],
+        "recommendationReason": "Ideal for beginners interested in action Photography like sports and wildlife.",
+        "purchaseLink": "https://www.usa.canon.com/shop/p/eos-r10"
+    },
+    {
+        "id": "nikon-z5",
+        "name": "Nikon Z5",
+        "brand": "Nikon",
+        "type": "Mirrorless",
+        "price": 1149.95,
+        "sensor": "Full Frame",
+        "resolutionMP": 24.3,
+        "batteryLife": 120,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 30,
+            "hasIBIS": true,
+            "hasLog": false
+        },
+
+        "photo": {
+            "burstFps": 4.5,
+            "lowLight": "Good",
+            "autofocus": "Good"
+        },
+
+        "usability": {
+            "level": "Beginner",
+            "weightGrams": 590,
+            "hasFlipScreen": false
+        },
+
+        "idealUseCases": ["Photography"],
+        "idealContentTypes": ["Portraits", "Travel Vlogging", "Landscape"],
+
+        "description": "An entry-level full-frame camera offering excellent image quality at an affordable price.",
+        "pros": ["Full-frame sensor", "Good image quality", "Affordable"],
+        "cons": ["Slow burst rate", "Basic video features"],
+        "recommendationReason": "Great entry point into full-frame Photography for portraits and landscapes.",
+        "purchaseLink": "https://www.nikonusa.com/p/z-5/1649"
+    },
+    {
+        "id": "fujifilm-x-s20",
+        "name": "Fujifilm X-S20",
+        "brand": "Fujifilm",
+        "type": "Mirrorless",
+        "price": 1399.95,
+        "sensor": "APS-C",
+        "resolutionMP": 26.1,
+        "batteryLife": 85,
+
+        "video": {
+            "maxResolution": "6K",
+            "maxResolutionFps": 30,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 8,
+            "lowLight": "Good",
+            "autofocus": "Good"
+        },
+
+        "usability": {
+            "level": "Intermediate",
+            "weightGrams": 491,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Travel Vlogging", "Cinematic Filmmaking"],
+
+        "description": "A powerful hybrid camera with strong video capabilities and compact design.",
+        "pros": ["6K video", "Compact body", "Great colors"],
+        "cons": ["Autofocus slightly behind competitors", "APS-C sensor"],
+        "recommendationReason": "Excellent hybrid camera for video-focused creators.",
+        "purchaseLink": "https://shopusa.fujifilm-x.com/x-s20-x-s20/?_gl=1*qcg7cv*_gcl_au*MzM0NTMxNzk5LjE3NzY4MDg0NTk."
+    },
+    {
+        "id": "panasonic-lumix-gh6",
+        "name": "Panasonic Lumix GH6",
+        "brand": "Panasonic",
+        "type": "Mirrorless",
+        "price": 2199.99,
+        "sensor": "Micro Four Thirds",
+        "resolutionMP": 25.2,
+        "batteryLife": 100,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 75,
+            "lowLight": "Average",
+            "autofocus": "Average"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 823,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Videography"],
+        "idealContentTypes": ["Cinematic Filmmaking", "Travel Vlogging"],
+
+        "description": "A video-centric camera designed for professional filmmakers.",
+        "pros": ["Exceptional video features", "No recording limits", "Strong stabilization"],
+        "cons": ["Weak autofocus", "Heavier body"],
+        "recommendationReason": "Best suited for serious videographers needing advanced recording capabilities.",
+        "purchaseLink": "https://shop.panasonic.com/products/gh6-mirrorless-camera-body"
+    },
+    {
+        "id": "canon-eos-r5",
+        "name": "Canon EOS R5",
+        "brand": "Canon",
+        "type": "Mirrorless",
+        "price": 2999.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 45,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "8K",
+            "maxResolutionFps": 30,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 20,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 738,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Weddings/Events", "Nature/Wildlife", "Action/Sports"],
+
+        "description": "A flagship hybrid camera offering top-tier photo and video performance.",
+        "pros": ["8K video", "High resolution", "Fast burst shooting"],
+        "cons": ["Expensive", "Overheating in video"],
+        "recommendationReason": "Top-tier choice for professionals needing both high-resolution photos and video.",
+        "purchaseLink": "https://www.usa.canon.com/shop/p/eos-r5"
+    },
+    {
+        "id": "sony-a6400",
+        "name": "Sony A6400",
+        "brand": "Sony",
+        "type": "Mirrorless",
+        "price": 899.99,
+        "sensor": "APS-C",
+        "resolutionMP": 24.2,
+        "batteryLife": 75,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 30,
+            "hasIBIS": false,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 11,
+            "lowLight": "Good",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Beginner",
+            "weightGrams": 403,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Travel Vlogging"],
+
+        "description": "A compact and affordable mirrorless camera with strong autofocus.",
+        "pros": ["Excellent autofocus", "Compact size", "Affordable"],
+        "cons": ["No IBIS", "Older design"],
+        "recommendationReason": "Great entry-level hybrid camera with strong autofocus for content creators.",
+        "purchaseLink": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6400-b"
+    },
+    {
+        "id": "nikon-z6-iii",
+        "name": "Nikon Z6 III",
+        "brand": "Nikon",
+        "type": "Mirrorless",
+        "price": 1999.95,
+        "sensor": "Full Frame",
+        "resolutionMP": 24.5,
+        "batteryLife": 100,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 20,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 670,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Weddings/Events", "Portraits", "Travel Vlogging"],
+
+        "description": "A modern full-frame hybrid camera with strong performance across photo and video.",
+        "pros": ["Excellent image quality", "Strong low-light", "Durable build"],
+        "cons": ["Expensive lenses", "Heavier body"],
+        "recommendationReason": "Great hybrid camera for professionals needing reliability and performance.",
+        "purchaseLink": "https://www.nikonusa.com/p/z6iii/1890"
+    },
+    {
+        "id": "fujifilm-x-t5",
+        "name": "Fujifilm X-T5",
+        "brand": "Fujifilm",
+        "type": "Mirrorless",
+        "price": 1899.95,
+        "sensor": "APS-C",
+        "resolutionMP": 40.2,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "6K",
+            "maxResolutionFps": 30,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 20,
+            "lowLight": "Good",
+            "autofocus": "Good"
+        },
+
+        "usability": {
+            "level": "Intermediate",
+            "weightGrams": 557,
+            "hasFlipScreen": false
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Landscape", "Portraits", "Travel Vlogging"],
+
+        "description": "A high-resolution APS-C camera focused on Photography and image quality.",
+        "pros": ["High resolution", "Excellent colors", "Compact"],
+        "cons": ["Limited video features", "No fully articulating screen"],
+        "recommendationReason": "Excellent for photographers prioritizing detail and image quality.",
+        "purchaseLink": "https://shopusa.fujifilm-x.com/x-t5-x-t5/?_gl=1%2A3bzbrj%2A_gcl_au%2AMzM0NTMxNzk5LjE3NzY4MDg0NTk"
+    },
+    {
+        "id": "canon-eos-r50",
+        "name": "Canon EOS R50",
+        "brand": "Canon",
+        "type": "Mirrorless",
+        "price": 679.99,
+        "sensor": "APS-C",
+        "resolutionMP": 24.2,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 30,
+            "hasIBIS": false,
+            "hasLog": false
+        },
+
+        "photo": {
+            "burstFps": 15,
+            "lowLight": "Good",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Beginner",
+            "weightGrams": 375,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Travel Vlogging", "Portraits"],
+
+        "description": "An entry-level mirrorless camera ideal for beginners and content creators.",
+        "pros": ["Lightweight", "User-friendly", "Affordable"],
+        "cons": ["Limited advanced features", "No IBIS"],
+        "recommendationReason": "Perfect for beginners starting out in Photography and content creation.",
+        "purchaseLink": "https://www.usa.canon.com/shop/p/eos-r50"
+    },
+    {
+        "id": "sony-a7-iv",
+        "name": "Sony A7 IV",
+        "brand": "Sony",
+        "type": "Mirrorless",
+        "price": 1999.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 33,
+        "batteryLife": 110,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 10,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Intermediate",
+            "weightGrams": 658,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": [
+            "Weddings/Events",
+            "Portraits",
+            "Travel Vlogging",
+            "Cinematic Filmmaking"
+        ],
+
+        "description": "Versatile full-frame hybrid camera with strong autofocus and professional video features.",
+        "pros": ["Excellent autofocus", "Strong hybrid performance", "Great dynamic range"],
+        "cons": ["4K crop at 60 fps", "Expensive lenses"],
+        "recommendationReason": "Excellent all-around hybrid camera for creators balancing photo and video work.",
+        "purchaseLink": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7m4-b"
+    },
+    {
+        "id": "sony-zv-e10-ii",
+        "name": "Sony ZV-E10 II",
+        "brand": "Sony",
+        "type": "Mirrorless",
+        "price": 1199.99,
+        "sensor": "APS-C",
+        "resolutionMP": 26,
+        "batteryLife": 130,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": false,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 11,
+            "lowLight": "Good",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Beginner",
+            "weightGrams": 377,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Videography"],
+        "idealContentTypes": ["Travel Vlogging", "Social Media"],
+
+        "description": "Compact creator-focused camera optimized for vlogging and lightweight video production.",
+        "pros": ["Compact", "Excellent autofocus", "Creator-focused UI"],
+        "cons": ["No IBIS", "Single SD-card slot"],
+        "recommendationReason": "Excellent lightweight option for beginner content creators and vloggers.",
+        "purchaseLink": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/zve10m2b?utm_source=AlphaUniverse&utm_medium=Web&utm_campaign=BodiesPage"
+    },
+    {
+        "id": "sony-a7c-ii",
+        "name": "Sony A7C II",
+        "brand": "Sony",
+        "type": "Mirrorless",
+        "price": 2099.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 33,
+        "batteryLife": 105,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 10,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Intermediate",
+            "weightGrams": 514,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Portraits", "Travel Vlogging"],
+
+        "description": "Compact full-frame hybrid camera balancing portability with strong image quality.",
+        "pros": ["Portable", "Excellent autofocus", "Strong battery life"],
+        "cons": ["Single SD-card slot", "Smaller EVF"],
+        "recommendationReason": "Perfect for creators prioritizing portability without sacrificing full-frame quality.",
+        "purchaseLink": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7cm2-b"
+    },
+    {
+        "id": "canon-eos-r6-mark-ii",
+        "name": "Canon EOS R6 Mark II",
+        "brand": "Canon",
+        "type": "Mirrorless",
+        "price": 1999.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 24.2,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 40,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 680,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Action/Sports", "Nature/Wildlife", "Weddings/Events"],
+
+        "description": "Professional hybrid camera with exceptional autofocus and burst shooting performance.",
+        "pros": ["Fast burst rate", "Excellent autofocus", "Strong low light"],
+        "cons": ["24.2MP may limit cropping", "RF lenses expensive"],
+        "recommendationReason": "Outstanding hybrid camera for sports, wildlife, and event creators.",
+        "purchaseLink": "https://www.usa.canon.com/shop/p/eos-r6-mark-ii"
+    },
+    {
+        "id": "canon-eos-r8",
+        "name": "Canon EOS R8",
+        "brand": "Canon",
+        "type": "Mirrorless",
+        "price": 1449.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 24.2,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": false,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 40,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Intermediate",
+            "weightGrams": 461,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Videography", "Photography"],
+        "idealContentTypes": ["Portraits", "Travel Vlogging"],
+
+        "description": "Affordable lightweight full-frame camera with strong autofocus and video quality.",
+        "pros": ["Lightweight", "Strong autofocus", "Excellent low-light performance"],
+        "cons": ["No IBIS", "Small battery"],
+        "recommendationReason": "Strong value full-frame option for hybrid creators.",
+        "purchaseLink": "https://www.usa.canon.com/shop/p/eos-r8"
+    },
+    {
+        "id": "canon-eos-r7",
+        "name": "Canon EOS R7",
+        "brand": "Canon",
+        "type": "Mirrorless",
+        "price": 1449.99,
+        "sensor": "APS-C",
+        "resolutionMP": 32.5,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": false
+        },
+
+        "photo": {
+            "burstFps": 30,
+            "lowLight": "Good",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Intermediate",
+            "weightGrams": 590,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography"],
+        "idealContentTypes": ["Action/Sports", "Nature/Wildlife"],
+
+        "description": "APS-C performance camera with excellent burst rates and subject tracking.",
+        "pros": ["Excellent burst shooting", "Strong autofocus", "IBIS included"],
+        "cons": ["APS-C low-light limitations", "Smaller sensor depth"],
+        "recommendationReason": "Ideal for wildlife and sports photographers needing reach and speed.",
+        "purchaseLink": "https://www.usa.canon.com/shop/p/eos-r7"
+    },
+    {
+        "id": "nikon-zf",
+        "name": "Nikon Z f",
+        "brand": "Nikon",
+        "type": "Mirrorless",
+        "price": 2049.95,
+        "sensor": "Full Frame",
+        "resolutionMP": 24.5,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 14,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Intermediate",
+            "weightGrams": 630,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Portraits", "Travel Vlogging"],
+
+        "description": "Retro-inspired hybrid camera with modern autofocus and excellent image quality.",
+        "pros": ["Beautiful design", "Excellent low-light performance", "Strong autofocus"],
+        "cons": ["Heavier body", "Retro ergonomics not for everyone"],
+        "recommendationReason": "Excellent hybrid camera for creators who prioritize aesthetics and portability.",
+        "purchaseLink": "https://www.nikonusa.com/p/z-f/1761"
+    },
+    {
+        "id": "nikon-z8",
+        "name": "Nikon Z8",
+        "brand": "Nikon",
+        "type": "Mirrorless",
+        "price": 3399.95,
+        "sensor": "Full Frame",
+        "resolutionMP": 45.7,
+        "batteryLife": 85,
+
+        "video": {
+            "maxResolution": "8K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 20,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 910,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Action/Sports", "Nature/Wildlife", "Cinematic Filmmaking"],
+
+        "description": "Flagship-level hybrid camera offering top-tier video and photo capabilities.",
+        "pros": ["8K video", "Professional autofocus", "High resolution"],
+        "cons": ["Expensive", "Large body"],
+        "recommendationReason": "Excellent professional hybrid camera for demanding creators.",
+        "purchaseLink": "https://www.nikonusa.com/p/z-8/1695"
+    },
+    {
+        "id": "panasonic-lumix-s5ii",
+        "name": "Panasonic Lumix S5II",
+        "brand": "Panasonic",
+        "type": "Mirrorless",
+        "price": 1597.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 24.2,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "6K",
+            "maxResolutionFps": 30,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 30,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Intermediate",
+            "weightGrams": 740,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Videography", "Photography"],
+        "idealContentTypes": ["Cinematic Filmmaking", "Social Media", "Weddings/Events"],
+
+        "description": "Full-frame hybrid camera with advanced video tools and improved autofocus.",
+        "pros": ["Excellent stabilization", "Strong video codecs", "Reliable autofocus"],
+        "cons": ["Larger body", "L-mount ecosystem"],
+        "recommendationReason": "Excellent hybrid option for video-focused creators.",
+        "purchaseLink": "https://shop.panasonic.com/products/s5m2-full-frame-mirrorless-camera-20-60mm-f3-5-5-6-lens"
+    },
+    {
+        "id": "nikon-d780",
+        "name": "Nikon D780",
+        "brand": "Nikon",
+        "type": "DSLR",
+        "price": 1549.95,
+        "sensor": "Full Frame",
+        "resolutionMP": 24.5,
+        "batteryLife": 150,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 30,
+            "hasIBIS": false,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 12,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 840,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Portraits", "Weddings/Events", "Landscape"],
+
+        "description": "A full-frame DSLR blending traditional DSLR handling with strong hybrid capabilities.",
+        "pros": ["Excellent battery life", "Strong low-light performance", "Reliable autofocus"],
+        "cons": ["No IBIS", "Heavier than modern mirrorless cameras"],
+        "recommendationReason": "A capable hybrid DSLR for event, portrait, and landscape creators.",
+        "purchaseLink": "https://www.nikonusa.com/p/d780/1618"
+    },
+    {
+        "id": "sony-a7cr",
+        "name": "Sony A7CR",
+        "brand": "Sony",
+        "type": "Mirrorless",
+        "price": 2999.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 62.5,
+        "batteryLife": 155,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 8,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 515,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Landscape", "Portraits", "Travel Vlogging"],
+
+        "description": "Compact high-resolution full-frame camera.",
+        "pros": ["62.5MP sensor", "Compact", "Excellent autofocus"],
+        "cons": ["Expensive", "Modest burst rate"],
+        "recommendationReason": "Ideal for creators prioritizing image quality and portability.",
+        "purchaseLink": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7crb"
+    },
+    {
+        "id": "sony-fx3",
+        "name": "Sony FX3",
+        "brand": "Sony",
+        "type": "Mirrorless",
+        "price": 4299.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 12.9,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 120,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 10,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 715,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Videography"],
+        "idealContentTypes": ["Cinematic Filmmaking", "Social Media"],
+
+        "description": "Cinema-focused full-frame camera.",
+        "pros": ["Excellent low-light", "Professional video tools"],
+        "cons": ["Low photo resolution"],
+        "recommendationReason": "One of the strongest filmmaking cameras available.",
+        "purchaseLink": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilmefx3a"
+    },
+    {
+        "id": "sony-a9-iii",
+        "name": "Sony A9 III",
+        "brand": "Sony",
+        "type": "Mirrorless",
+        "price": 6399.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 25.2,
+        "batteryLife": 150,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 120,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 120,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 617,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography"],
+        "idealContentTypes": ["Action/Sports", "Nature/Wildlife"],
+
+        "description": "Flagship sports photography camera.",
+        "pros": ["120 fps burst", "Global shutter"],
+        "cons": ["Very expensive"],
+        "recommendationReason": "Designed for sports and wildlife professionals.",
+        "purchaseLink": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce9m3b"
+    },
+    {
+        "id": "canon-eos-r1",
+        "name": "Canon EOS R1",
+        "brand": "Canon",
+        "type": "Mirrorless",
+        "price": 6799.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 24.2,
+        "batteryLife": 180,
+
+        "video": {
+            "maxResolution": "6K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 40,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 1115,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Action/Sports", "Nature/Wildlife"],
+
+        "description": "Canon's flagship EOS R System camera.",
+        "pros": ["Elite autofocus", "Excellent battery life"],
+        "cons": ["Large camera body", "Expensive"],
+        "recommendationReason": "Top-tier performance for professional shooters.",
+        "purchaseLink": "https://www.usa.canon.com/shop/p/eos-r1"
+    },
+    {
+        "id": "canon-eos-r5-mark-ii",
+        "name": "Canon EOS R5 Mark II",
+        "brand": "Canon",
+        "type": "Mirrorless",
+        "price": 3899.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 45,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "8K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 30,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 670,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Weddings/Events", "Nature/Wildlife", "Cinematic Filmmaking"],
+
+        "description": "Professional hybrid successor to the versatile EOS R5 camera.",
+        "pros": ["8K video", "Excellent autofocus"],
+        "cons": ["Expensive"],
+        "recommendationReason": "Ideal for demanding hybrid creators.",
+        "purchaseLink": "https://www.usa.canon.com/shop/p/eos-r5-mark-ii"
+    },
+    {
+        "id": "nikon-z50-ii",
+        "name": "Nikon Z50 II",
+        "brand": "Nikon",
+        "type": "Mirrorless",
+        "price": 1009.95,
+        "sensor": "APS-C",
+        "resolutionMP": 20.9,
+        "batteryLife": 55,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": false,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 30,
+            "lowLight": "Good",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Beginner",
+            "weightGrams": 495,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Travel Vlogging", "Social Media", "Action/Sports"],
+
+        "description": "Entry-level APS-C mirrorless camera with modern autofocus and strong usability.",
+        "pros": ["Fast autofocus", "Affordable", "Good burst rate"],
+        "cons": ["No IBIS", "Limited battery life"],
+        "recommendationReason": "Excellent beginner camera for content creation and general photography.",
+        "purchaseLink": "https://www.nikonusa.com/p/z50ii/1784"
+    },
+    {
+        "id": "nikon-z-fc",
+        "name": "Nikon Z fc",
+        "brand": "Nikon",
+        "type": "Mirrorless",
+        "price": 859.95,
+        "sensor": "APS-C",
+        "resolutionMP": 20.9,
+        "batteryLife": 75,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 30,
+            "hasIBIS": false,
+            "hasLog": false
+        },
+
+        "photo": {
+            "burstFps": 11,
+            "lowLight": "Good",
+            "autofocus": "Good"
+        },
+
+        "usability": {
+            "level": "Beginner",
+            "weightGrams": 445,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Social Media", "Travel Vlogging", "Portraits"],
+
+        "description": "Retro-inspired APS-C mirrorless camera for creators and enthusiasts.",
+        "pros": ["Lightweight", "Stylish design", "Beginner friendly"],
+        "cons": ["No IBIS", "Limited grip ergonomics"],
+        "recommendationReason": "Great option for social media creators wanting a compact camera.",
+        "purchaseLink": "https://www.nikonusa.com/p/z-fc/1671"
+    },
+    {
+        "id": "nikon-z9",
+        "name": "Nikon Z9",
+        "brand": "Nikon",
+        "type": "Mirrorless",
+        "price": 4999.95,
+        "sensor": "Full Frame",
+        "resolutionMP": 45.7,
+        "batteryLife": 170,
+
+        "video": {
+            "maxResolution": "8K",
+            "maxResolutionFps": 30,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 20,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 1340,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Action/Sports", "Nature/Wildlife", "Cinematic Filmmaking"],
+
+        "description": "Flagship professional mirrorless camera with elite autofocus and video capabilities.",
+        "pros": ["Exceptional autofocus", "8K recording", "Professional build"],
+        "cons": ["Heavy camera body", "Expensive"],
+        "recommendationReason": "Ideal for professional wildlife, sports, and hybrid creators.",
+        "purchaseLink": "https://www.nikonusa.com/p/z-9/1669"
+    },
+    {
+        "id": "fujifilm-xm5",
+        "name": "Fujifilm X-M5",
+        "brand": "Fujifilm",
+        "type": "Mirrorless",
+        "price": 899.95,
+        "sensor": "APS-C",
+        "resolutionMP": 26.1,
+        "batteryLife": 85,
+
+        "video": {
+            "maxResolution": "6K",
+            "maxResolutionFps": 30,
+            "hasIBIS": false,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 30,
+            "lowLight": "Good",
+            "autofocus": "Good"
+        },
+
+        "usability": {
+            "level": "Beginner",
+            "weightGrams": 355,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Videography", "Photography"],
+        "idealContentTypes": ["Travel Vlogging", "Social Media"],
+
+        "description": "Compact creator-focused camera emphasizing portability and video.",
+        "pros": ["Very portable", "6K recording", "Affordable"],
+        "cons": ["No IBIS", "Small battery"],
+        "recommendationReason": "Excellent lightweight option for content creators.",
+        "purchaseLink": "https://shopusa.fujifilm-x.com/x-m5-x-m5/"
+    },
+    {
+        "id": "fujifilm-gfx100-ii",
+        "name": "Fujifilm GFX100 II",
+        "brand": "Fujifilm",
+        "type": "Mirrorless",
+        "price": 7999.95,
+        "sensor": "Medium Format",
+        "resolutionMP": 102,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "8K",
+            "maxResolutionFps": 30,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 8.7,
+            "lowLight": "Excellent",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 1030,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Landscape", "Portraits", "Weddings/Events"],
+
+        "description": "Ultra-high-resolution medium format camera for maximum image quality.",
+        "pros": ["102MP resolution", "Excellent dynamic range", "Professional image quality"],
+        "cons": ["Very expensive", "Large files", "Heavy camera body"],
+        "recommendationReason": "Best suited for photographers prioritizing maximum detail.",
+        "purchaseLink": "https://shopusa.fujifilm-x.com/gfx100-ii-body-600023590/"
+    },
+    {
+        "id": "fujifilm-xh2",
+        "name": "Fujifilm X-H2",
+        "brand": "Fujifilm",
+        "type": "Mirrorless",
+        "price": 2099.95,
+        "sensor": "APS-C",
+        "resolutionMP": 40.2,
+        "batteryLife": 100,
+
+        "video": {
+            "maxResolution": "8K",
+            "maxResolutionFps": 30,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 20,
+            "lowLight": "Good",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 660,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Landscape", "Portraits", "Weddings/Events"],
+
+        "description": "High-resolution APS-C flagship with strong hybrid capabilities.",
+        "pros": ["40MP sensor", "8K video", "IBIS"],
+        "cons": ["APS-C low-light limitations"],
+        "recommendationReason": "Excellent for creators prioritizing image detail.",
+        "purchaseLink": "https://shopusa.fujifilm-x.com/x-h2-x-h2/"
+    },
+    {
+        "id": "fujifilm-xh2s",
+        "name": "Fujifilm X-H2S",
+        "brand": "Fujifilm",
+        "type": "Mirrorless",
+        "price": 2699.95,
+        "sensor": "APS-C",
+        "resolutionMP": 26.1,
+        "batteryLife": 120,
+
+        "video": {
+            "maxResolution": "6K",
+            "maxResolutionFps": 30,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 40,
+            "lowLight": "Good",
+            "autofocus": "Excellent"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 660,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Action/Sports", "Nature/Wildlife", "Cinematic Filmmaking"],
+
+        "description": "Speed-focused APS-C flagship with stacked sensor technology.",
+        "pros": ["40 fps burst", "Excellent autofocus", "Strong video features"],
+        "cons": ["Expensive APS-C camera"],
+        "recommendationReason": "Outstanding for sports and wildlife creators.",
+        "purchaseLink": "https://shopusa.fujifilm-x.com/x-h2s-x-h2s/"
+    },
+    {
+        "id": "panasonic-lumix-s9",
+        "name": "Panasonic Lumix S9",
+        "brand": "Panasonic",
+        "type": "Mirrorless",
+        "price": 1797.99,
+        "sensor": "Full Frame",
+        "resolutionMP": 24.2,
+        "batteryLife": 90,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 30,
+            "lowLight": "Excellent",
+            "autofocus": "Good"
+        },
+
+        "usability": {
+            "level": "Beginner",
+            "weightGrams": 486,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Videography", "Photography"],
+        "idealContentTypes": ["Social Media", "Travel Vlogging"],
+
+        "description": "Compact full-frame creator camera designed for social media workflows.",
+        "pros": ["Compact", "Full-frame sensor", "Strong stabilization"],
+        "cons": ["No EVF", "Limited physical controls"],
+        "recommendationReason": "Excellent for creators focused on portability and content production.",
+        "purchaseLink": "https://shop.panasonic.com/products/lumix-s9-full-frame-mirrorless-camera"
+    },
+    {
+        "id": "panasonic-lumix-gh7",
+        "name": "Panasonic Lumix GH7",
+        "brand": "Panasonic",
+        "type": "Mirrorless",
+        "price": 2399.99,
+        "sensor": "Micro Four Thirds",
+        "resolutionMP": 25.2,
+        "batteryLife": 100,
+
+        "video": {
+            "maxResolution": "6K",
+            "maxResolutionFps": 60,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 190,
+            "lowLight": "Good",
+            "autofocus": "Good"
+        },
+
+        "usability": {
+            "level": "Professional",
+            "weightGrams": 805,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Videography"],
+        "idealContentTypes": ["Cinematic Filmmaking", "Social Media", "Travel Vlogging"],
+
+        "description": "Professional video-centric camera with advanced recording capabilities.",
+        "pros": [
+            "Excellent codecs",
+            "Strong stabilization",
+            "Unlimited recording at all resolutions and frame rates"
+        ],
+        "cons": ["Smaller sensor", "Average low-light performance"],
+        "recommendationReason": "Excellent choice for dedicated videographers.",
+        "purchaseLink": "https://shop.panasonic.com/products/gh7-mirrorless-camera"
+    },
+    {
+        "id": "om-system-om5",
+        "name": "OM System OM-5",
+        "brand": "OM System",
+        "type": "Mirrorless",
+        "price": 839.99,
+        "sensor": "Micro Four Thirds",
+        "resolutionMP": 20.4,
+        "batteryLife": 110,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 30,
+            "hasIBIS": true,
+            "hasLog": true
+        },
+
+        "photo": {
+            "burstFps": 30,
+            "lowLight": "Good",
+            "autofocus": "Good"
+        },
+
+        "usability": {
+            "level": "Intermediate",
+            "weightGrams": 414,
+            "hasFlipScreen": true
+        },
+
+        "idealUseCases": ["Photography", "Videography"],
+        "idealContentTypes": ["Nature/Wildlife", "Landscape", "Travel Vlogging"],
+
+        "description": "Compact weather-sealed camera designed for travel and outdoor shooting.",
+        "pros": ["Very lightweight", "Weather sealed", "Excellent stabilization"],
+        "cons": ["Smaller sensor", "Limited shallow depth of field"],
+        "recommendationReason": "Great option for travel and outdoor creators.",
+        "purchaseLink": "https://explore.omsystem.com/us/en/om-5"
+    },
+    {
+        "id": "canon-eos-r100",
+        "name": "Canon EOS R100",
+        "brand": "Canon",
+        "type": "Mirrorless",
+        "price": 379.99,
+        "sensor": "APS-C",
+        "resolutionMP": 24.1,
+        "batteryLife": 95,
+
+        "video": {
+            "maxResolution": "4K",
+            "maxResolutionFps": 24,
+            "hasIBIS": false,
+            "hasLog": false
+        },
+
+        "photo": {
+            "burstFps": 6.5,
+            "lowLight": "Good",
+            "autofocus": "Good"
+        },
+
+        "usability": {
+            "level": "Beginner",
+            "weightGrams": 356,
+            "hasFlipScreen": false
+        },
+
+        "idealUseCases": ["Photography"],
+        "idealContentTypes": ["Portraits", "Landscape", "Travel Vlogging"],
+
+        "description": "Canon's entry-level APS-C mirrorless camera offering excellent image quality and straightforward controls for new photographers.",
+        "pros": [
+            "Affordable RF-mount entry point",
+            "24.1MP APS-C sensor",
+            "Compact and lightweight"
+        ],
+        "cons": ["No in-body image stabilization", "Fixed rear LCD", "Basic video capabilities"],
+        "recommendationReason": "Excellent choice for beginners seeking an affordable interchangeable-lens camera primarily for photography.",
+        "purchaseLink": "https://www.usa.canon.com/shop/p/eos-r100"
+    }
+]
