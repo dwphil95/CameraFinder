@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Camera Finder
 
-## Getting Started
+Camera Finder is a web application that helps photographers and videographers discover cameras tailored to their needs.
 
-First, run the development server:
+Users complete a questionnaire covering budget, experience level, intended use, preferred content types, and feature priorities. The application then generates personalized camera recommendations using a weighted recommendation algorithm.
 
-```bash
+The project demonstrates modern web development practices using Next.js, TypeScript, React, and server-side API routes, with future AI-assisted recommendation refinement planned.
+
+## Features
+
+- Multi-step questionnaire
+- Personalized camera recommendations
+- Weighted recommendation algorithm
+- Budget-aware filtering
+- Feature importance scoring
+- Responsive UI
+- Server-side recommendation API
+- Type-safe TypeScript models
+
+## Tech Stack
+
+Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+Backend
+
+- Next.js API Routes
+
+Developer Tools
+
+- ESLint
+- Prettier
+- VS Code
+- Cursor AI
+
+## Recommendation Engine
+
+Each camera is scored against the user's questionnaire responses.
+
+Scoring considers:
+
+- Budget range
+- Photography or Videography preference
+- Preferred content types
+- Skill level
+- Autofocus importance
+- Low-light importance
+- Battery life importance
+- Video quality importance
+- Photo quality importance
+- Portability importance
+
+Each criterion contributes a weighted score.
+
+The highest scoring cameras are ranked before tie-breakers are applied.
+
+## Tie Breaking
+
+When multiple cameras receive identical scores, they are ordered using:
+
+1. Content type score
+2. Use case score
+3. Importance score
+4. Budget score
+5. Skill level score
+
+This ensures recommendations prioritize the user's most meaningful preferences.
+
+## Installing and Running the Application
+
+git clone https://github.com/dwphil95/CameraFinder.git
+
+npm install
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Future Improvements
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- AI-assisted recommendation refinement
+- Saved recommendations
+- Live camera database integration
+- Lens recommendations
 
-## Learn More
+## AI-Assisted Development
 
-To learn more about Next.js, take a look at the following resources:
+Cursor AI was used as an engineering assistant for:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Code review
+- Refactoring suggestions
+- Architecture discussions
+- Maintainability improvements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+All architectural decisions, implementation, and validation were completed manually.
