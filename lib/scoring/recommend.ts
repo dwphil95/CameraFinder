@@ -1,17 +1,15 @@
 import "server-only";
 
-import { QuizAnswers, CameraScores } from "@/lib/types";
-import { aiRerank } from "../ai/ai-rerank";
+import { QuizAnswers, CameraScores, Camera } from "@/lib/types";
+import { aiRerank } from "@/lib/ai/ai-rerank";
 import { determineBudgetScore } from "@/lib/scoring/budget-score";
 import { determineImportanceScore } from "@/lib/scoring/importance-score";
 import { handleTieBreakers } from "@/lib/scoring/tie-breakers";
-import { getCameras } from "../cameras/get-cameras";
 
-export const recommend = (answers: QuizAnswers) => {
+export const recommend = (answers: QuizAnswers, cameras: Camera[]) => {
     // Official recommendation algorithm (manual scoring algorithm -> AI re-ranking -> top 3)
 
-    const mockCameras = getCameras();
-    const ratedRecommendations = mockCameras
+    const ratedRecommendations = cameras
         .map((camera) => {
             const cameraScores: CameraScores = {
                 camera: camera,

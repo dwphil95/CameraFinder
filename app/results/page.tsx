@@ -43,8 +43,8 @@ const Results = () => {
                 if (!res.ok) throw new Error("Recommendation request failed");
                 return res.json();
             })
-            .then(({ cameras }) => {
-                if (!cancelled) setRecommendations(cameras);
+            .then(({ recommendations }) => {
+                if (!cancelled) setRecommendations(recommendations);
             })
             .catch(() => {
                 if (!cancelled) setFetchError(true);
