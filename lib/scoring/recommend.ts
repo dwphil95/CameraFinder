@@ -1,13 +1,12 @@
 import "server-only";
 
 import { QuizAnswers, CameraScores, Camera } from "@/lib/types";
-import { aiRerank } from "@/lib/ai/ai-rerank";
 import { determineBudgetScore } from "@/lib/scoring/budget-score";
 import { determineImportanceScore } from "@/lib/scoring/importance-score";
 import { handleTieBreakers } from "@/lib/scoring/tie-breakers";
 
 export const recommend = (answers: QuizAnswers, cameras: Camera[]) => {
-    // Official recommendation algorithm (manual scoring algorithm -> AI re-ranking -> top 3)
+    // Official recommendation algorithm (manual scoring algorithm)
 
     const ratedRecommendations = cameras
         .map((camera) => {
@@ -64,7 +63,6 @@ export const recommend = (answers: QuizAnswers, cameras: Camera[]) => {
                 cameraScores.scores.useCases +
                 cameraScores.scores.contentTypes +
                 cameraScores.scores.importance;
-            console.log(cameraScores);
             return cameraScores;
         })
         .sort((a, b) => {
@@ -74,9 +72,5 @@ export const recommend = (answers: QuizAnswers, cameras: Camera[]) => {
         })
         .slice(0, 10);
 
-    // AI integration to refine and generate top 3 camera results (to be worked on in next major milestone)
-    const candidateCameras = ratedRecommendations.map((recommendation) => recommendation.camera);
-    const topRecommendations = aiRerank(answers, candidateCameras);
-
-    return topRecommendations;
+    return ratedRecommendations.map((recommendation) => recommendation.camera);
 };

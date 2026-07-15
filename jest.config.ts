@@ -11,7 +11,6 @@ const config: Config = {
     testEnvironment: "jsdom",
     moduleNameMapper: {
         "^@/(.*)$": "<rootDir>/$1",
-        "^@/lib/cameras/get-cameras$": "<rootDir>/lib/cameras/__mocks__/get-cameras.ts",
     },
 
     // setupFilesAfterEnv: ['<rootDir>/jest.setup.ts'],
